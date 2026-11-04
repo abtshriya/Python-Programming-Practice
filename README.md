@@ -46,6 +46,3 @@ This repository documents my progress as I learn Python programming through free
 - VS Code
 - Git
 - GitHub
-
-
-**Learning in public. Improving one program at a time.** 🚀
